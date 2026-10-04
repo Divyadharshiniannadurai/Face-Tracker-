@@ -108,7 +108,6 @@ output/annotated.mp4
 Run on the provided video, then commit `logs/`, `data/visitors.db` and `output/` as sample output.
 
 ## 8. Demo video
-**Loom / YouTube link:** _add here_
+**Loom / YouTube link**:https://youtube.com/shorts/-Rlh2t9_VGQ?si=X2ylLmodNWTcIdEV
 
----
-This project is a part of a hackathon run by https://katomaran.com
+
